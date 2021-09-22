@@ -1,3 +1,6 @@
 improvemrnts
 improvementa 02
 improvementa 03
+
+
+1：这是newbranch2修改file2，修改好commit，push。然后就进行最后一步检验，看github上两个分支是否可以自动合并。
